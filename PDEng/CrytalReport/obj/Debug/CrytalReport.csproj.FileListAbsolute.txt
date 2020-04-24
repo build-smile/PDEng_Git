@@ -1,0 +1,7 @@
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\CrytalReport.csprojAssemblyReference.cache
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\CrytalReport.Form1.resources
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\CrytalReport.Properties.Resources.resources
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\CrytalReport.csproj.GenerateResource.cache
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\RdlCompile.cache
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\RdlCompile.compiled
+C:\Users\build\source\repos\CrytalReport\CrytalReport\obj\Debug\CrytalReport.csproj.CoreCompileInputs.cache
